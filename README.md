@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Timur 
-- 👀 I’m interested in Python, specifically automation! 
+- 👀 I’m interested in Python and Ruby, specifically automation! 
 - 📫 timur.gab@gmail.com
 
 <!---
