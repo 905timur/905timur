@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Timur 
-- 👀 I’m interested in writing silly scripts and making webapps!
+- 👀 I love writing silly scripts and making webapps!
 - 📫 timur.gab@gmail.com
 
 <!---
