@@ -8,8 +8,11 @@ Welcome to my little GitHub!
 I dabble in Python, JavaScript, BASH, PowerShell and occasionally Node.js, though admittedly, my skills are somewhere between "enthusiastic novice" and "chaotic moron."
 
 Python: It's my go-to for quick and dirty scripts. Sometimes, they even work as intended.
+
 JavaScript: I write code that breaks, learns, and eventually (maybe) works!
+
 HTML & CSS: I make websites look almost professional... if you squint hard enough.
+
 Node.js: It's a love-hate relationship, but we make it work... eventually.
 
 📫 How to reach me:
