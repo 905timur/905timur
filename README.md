@@ -1,4 +1,5 @@
 👋 Hi, I’m Timur
+
 Welcome to my little GitHub!
 
 👀 I love writing silly scripts, making webapps, and generally tinkering with whatever I can get my hands on. My projects range from actually useful tools to questionable experiments that seemed like a good idea at 2 AM.
