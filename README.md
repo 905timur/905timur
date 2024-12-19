@@ -16,6 +16,7 @@ HTML & CSS: I make websites look almost professional... if you squint hard enoug
 Node.js: It's a love-hate relationship, but we make it work... eventually.
 
 📫 How to reach me:
+
 Email me at timur.gab@gmail.com. Whether you have a cool idea, need help with something, or just want to chat, I’d love to hear from you!
 
 ✨ Thanks for stopping by! Feel free to browse through my repos, just don’t judge my commit messages too harshly.
