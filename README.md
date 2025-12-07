@@ -1,7 +1,9 @@
-👋 Hi, I’m Timur
+👋 Hey, I’m Timur
 
-👀 I love writing useless scripts, making webapps, and generally tinkering with whatever I can get my hands on. My projects range from actually useful tools to questionable experiments that seemed like a good idea at 2 AM.
+I write scripts that probably shouldn’t exist, build webapps no one asked for, and generally poke at anything that looks tinkerable. My repos swing wildly between actually useful tools and experiments that definitely started with the words “okay but what if...”
 
-💻 I dabble in Python, BASH, JS, and have recently developed an unhealthy obsession with Svelte. I also have an interest in cryptography, but struggle with mathematical concepts of that field. I have spent most of my adult life in the physical security space and currently curate an industry newsletter called [The Physical Layer](www.layer0.news).
+💻 I bounce between Python, BASH, and JS... but lately Svelte5 (Svelte-Kit) has taken full custody of my attention. I also enjoy cryptography enough to suffer through its math, usually with a lot of pausing and re-Googling involved.
 
-✨ Thanks for stopping by! Feel free to browse through my repos, just don’t judge my commit messages too harshly. If you have any questions or something doesn't work, open an issue!
+🔐 I’ve spent most of my adult life in the physical security world, where I now curate an industry newsletter called [The Physical Layer](https://layer0.news). It’s like peeling back the curtain on the stuff people walk past every day without noticing.
+
+✨ Anyway... welcome to my little corner of GitHub. Feel free to dig through the repos... ignore the commit messages... and open an issue if something explodes or confuses you. Odds are I confused myself first.
