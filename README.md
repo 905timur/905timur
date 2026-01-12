@@ -12,6 +12,6 @@ I curate **[The Physical Layer](https://layer0.news)**, an industry newsletter p
 - **reddit content cleaner** – automate managing your Reddit account  
 - **Dockyard** – a terminal-based Docker container manager built specifically for resource limited VPS servers. It provides real time insights into your containers with minimal overhead.
 
-I bounce between Python, Bash, and JavaScript, but lately **SvelteKit** has taken full custody of my attention.  
+I bounce between Python, Rust, Bash, and JavaScript, but lately **SvelteKit** has taken full custody of my attention.  
 
 ✨ Welcome to my corner of GitHub—dig through the repos, ignore the commit messages, and open an issue if something explodes. Odds are I confused myself first.
