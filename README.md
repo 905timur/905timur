@@ -3,7 +3,7 @@
 I write scripts that probably shouldn’t exist, build web apps no one asked for, and generally poke at anything that looks tinkerable.
 
 ## 🍽 dishTXT
-I created **[dishtxt.lol](https://dishtxt.lol)** to un-shittify the recipe space. Tired of pop-ups and autoplay just to read a recipe, I built a minimalist aggregator: clean, structured recipes with no nonsense.
+I created **[dishtxt.lol](https://dishtxt.lol)** to un-shittify the recipe space. Tired of pop-ups and autoplay just to read a recipe, I built a minimalist aggregator: clean, structured recipes with no nonsense. This project is still in development.
 
 ## 📰 The Physical Layer
 I curate **[The Physical Layer](https://layer0.news)**, an industry newsletter peeling back the curtain on the infrastructure and systems people walk past every day.
