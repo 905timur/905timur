@@ -10,7 +10,7 @@ I curate **[The Physical Layer](https://layer0.news)**, an industry newsletter p
 
 ## 💻 Some of my more useful projects:
 - **reddit content cleaner** – automate managing your Reddit account  
-- **docker-tui** – Python terminal interface to manage containers and view logs  
+- **Dockyard** – a terminal-based Docker container manager built specifically for resource limited VPS servers. It provides real time insights into your containers with minimal overhead.
 
 I bounce between Python, Bash, and JavaScript, but lately **SvelteKit** has taken full custody of my attention.  
 
