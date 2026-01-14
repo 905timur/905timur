@@ -9,8 +9,8 @@ I created **[dishtxt.lol](https://dishtxt.lol)** to un-shittify the recipe space
 I curate **[The Physical Layer](https://layer0.news)**, an industry newsletter peeling back the curtain on the infrastructure and systems people walk past every day.
 
 ## 💻 Some of my more useful projects:
-- **reddit content cleaner** – automate managing your Reddit account  
-- **Dockyard** – a terminal-based Docker container manager built specifically for resource limited VPS servers. It provides real time insights into your containers with minimal overhead.
+- [**reddit content cleaner**](https://www.github.com/905timur/reddit-content-cleaner) – automate managing your Reddit account  
+- [**Dockyard**](https://www.github.com/905timur/dockyard) – a terminal-based Docker container manager built specifically for resource limited VPS servers. It provides real time insights into your containers with minimal overhead.
 
 I bounce between Python, Rust, Bash, and JavaScript, but lately **SvelteKit** has taken full custody of my attention.  
 
