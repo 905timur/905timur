@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Timur, SlopOps Engineer (Vibes Division)
+# 👋 Hey, I’m Timur
 
 ✨ Welcome to my corner of GitHub...check out the repos, ignore the commit messages, and open an issue if something explodes.
 
