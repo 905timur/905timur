@@ -1,18 +1,13 @@
-# 👋 Hey, I’m Timur
+Hi, I’m Timur
 
-✨ Welcome to my corner of GitHub...check out the repos, ignore the commit messages, and open an issue if something explodes.
+This is where I keep things I’m working on, things I broke, and things that were never supposed to turn into projects.
 
-I write tools that probably shouldn’t exist, build web apps no one asked for, and generally poke at anything that looks tinkerable.
+I mostly build small tools and web apps that solve annoyances I’ve run into myself. Some of them are useful. Some of them are experiments that got out of hand. If something breaks, open an issue.
 
-## 🍽 dishTXT
-I created **[dishtxt.lol](https://dishtxt.lol)** to un-shittify the recipe space. Tired of pop-ups and autoplay just to read a recipe, I built a minimalist aggregator: clean, structured recipes with no nonsense. This project is still in development.
+dishTXT
 
-## 📰 The Physical Layer
-I curate **[The Physical Layer](https://layer0.news)**, an industry newsletter peeling back the curtain on the infrastructure and systems people walk past every day.
+I’m building dishtxt.lol to strip recipes down to what people actually want: ingredients and instructions. No pop-ups, no autoplay videos, no life story before the measurements. It’s a minimalist recipe aggregator focused on clean, structured content. Still in active development, currently in the process of switching from serving scraped recipes to hosting my own db. 
 
-## 💻 Some of my more useful projects:
-- [**Reddit Content Cleaner**](https://www.github.com/905timur/reddit-content-cleaner) – automate managing your Reddit account  
-- [**Dockyard**](https://www.github.com/905timur/dockyard) – a terminal-based Docker container manager built specifically for resource limited VPS servers. It provides real time insights into your containers with minimal overhead.
+The Physical Layer
 
-
-
+I curate The Physical Layer, layer0.news, a newsletter about the physical security infrastructure people depend on but rarely notice. Networks, systems, hardware, and the practical realities underneath modern software.
